@@ -1,21 +1,45 @@
-# Claude - RSS y Publicidad Web
+# DP-LOS Hair Studio — Plan de mejora web y SEO local
 
-[![GitHub license](https://img.shields.io/github/license/MPMad/rss-publicidad-web)](https://github.com/MPMad/rss-publicidad-web)
+Repositorio de trabajo para implementar las mejoras identificadas en el assessment SEO + conversión de **dplos.com** (DP-LOS Hair Studio by J. Redondo, Moratalaz, Madrid).
 
-Proyecto de automatización de RSS y publicidad web asistido por Claude Code.
+## El problema principal
 
-## Descripción
+La ficha de Google Business Profile fue fusionada por error con el negocio anterior del local (una papelería): se pasó de 45 reseñas a 5,0 a mostrar 74 reseñas a 4,6 con reseñas ajenas, y se perdió el acceso al panel. Es la acción nº1.
 
-Este proyecto utiliza Claude Code para gestionar y automatizar tareas relacionadas con feeds RSS y publicidad en la web.
+## Fases de trabajo
 
-## Requisitos
+### Fase 1 — Esta semana (rescate y cimientos)
+- [ ] Rescatar el GBP por las tres vías (soporte, apelación de fusión, verificación por vídeo)
+- [ ] Quick wins de web: corregir NAP (28030, local 1), añadir horarios, reescribir title, botón WhatsApp/llamada
+- [ ] Instalar Yoast/RankMath + schema LocalBusiness
+- [ ] Confirmar GA4 + Search Console activos en Site Kit
 
-- [Claude Code](https://claude.ai/code)
-- Git
-- GitHub CLI (`gh`)
+### Fase 2 — Próximos 30 días (confianza y contenido)
+- [ ] Optimizar GBP recuperado (fotos, servicios, atributos vegano, enlace reserva)
+- [ ] Página "Sobre nosotros" (J. Redondo, +15 años, Londres, filosofía vegana)
+- [ ] Página "Contacto" con mapa embebido + WhatsApp
+- [ ] Widget de reseñas + galería real en home
+- [ ] Sección "diagnóstico con cámara" en home
+- [ ] Reescritura del copy de home y descripciones por servicio
 
-## Inicio rápido
+### Fase 3 — Próximos 90 días (crecimiento orgánico)
+- [ ] Página "Peluquería en Moratalaz" (landing local principal)
+- [ ] Página "Barbería / Caballero en Moratalaz"
+- [ ] Contenidos de servicios estrella: balayage, Olaplex, coloración vegana
+- [ ] Posts periódicos en GBP + citaciones locales coherentes
+- [ ] Evaluar resultado del experimento de apertura en sábados
 
-1. Clona el repositorio
-2. Abre la carpeta en Claude Code
-3. Empieza a trabajar con el asistente
+## Datos del proyecto
+
+- **Web:** https://dplos.com
+- **Dirección:** Camino de los Vinateros 55, local 1, 28030 Madrid (Moratalaz)
+- **Teléfono / WhatsApp:** 91 375 19 39
+- **Horario actual:** L-V 10:00–20:00
+
+## Métricas clave a seguir
+
+- Reservas confirmadas (Amelia) y no-shows
+- Clics en teléfono y WhatsApp (GA4 + GBP Insights)
+- Tráfico orgánico por página (Search Console)
+- Posición para "peluquería Moratalaz", "balayage Moratalaz", "barbería Moratalaz"
+- Ratio reservas señora vs. caballero
