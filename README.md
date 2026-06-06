@@ -1,5 +1,7 @@
 # Claude - RSS y Publicidad Web
 
+[![GitHub license](https://img.shields.io/github/license/MPMad/rss-publicidad-web)](https://github.com/MPMad/rss-publicidad-web)
+
 Proyecto de automatización de RSS y publicidad web asistido por Claude Code.
 
 ## Descripción
